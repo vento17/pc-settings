@@ -5,10 +5,10 @@ Manuali e checklist per configurare workstation da live: ASUS ROG, MSI e noteboo
 ## Documenti principali
 
 - [Workstation Live Guide](docs/workstation-live-guide.md)
-- [ASUS ROG](docs/asus-rog.md)
-- [MSI](docs/msi.md)
-- [NVIDIA](docs/nvidia.md)
-- [Windows](docs/windows.md)
+- [ASUS ROG](docs/asus-rog.md) — passo passo: GPU Mode, profili, BIOS
+- [MSI](docs/msi.md) — passo passo: MUX, User Scenario, RTX 3080 mobile
+- [NVIDIA](docs/nvidia.md) — passo passo: driver Studio, pannello 3D, profili per app
+- [Windows](docs/windows.md) — passo passo: alimentazione, avvio, Defender, rete
 - [Rete e USB](docs/network-usb.md)
 - [Troubleshooting](docs/troubleshooting.md)
 - [Checklist SHOW MODE](checklists/show-mode.md)
